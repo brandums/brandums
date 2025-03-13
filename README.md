@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brandon Arenas</h1>
-<h3 align="center">Full-Stack Developer | .NET & Angular Expert | C# Enthusiast</h3>
+<h3 align="center">Full-Stack Developer | .NET & Angular | C# Enthusiast</h3>
 
 <br>
 
