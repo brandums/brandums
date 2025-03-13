@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brandon Arenas</h1>
 <h3 align="center">Full-Stack Developer | .NET & Angular | C# Enthusiast</h3>
 
-<br>
-
 <p align="right"> <h3>Profile Views :</h3> <img src="https://komarev.com/ghpvc/?username=brandums&label=Profile%20views&color=0e75b6&style=flat"
     alt="brandums" /> 
   </p>
@@ -13,8 +11,6 @@
 - 📫 How to reach me **brrandum151@gmail.com**
 - ⚡ Fun fact: Passionate about solving complex problems with clean code and efficient design.
 
-<br>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/brandon-arenas151" target="blank"><img align="center"
@@ -24,8 +20,6 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
       alt="brandums" height="30" width="40" /></a>
 </p>
-
-<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -61,15 +55,11 @@
       alt="mysql" width="40" height="40" /> </a> 
 </p>
 
-<br>
-
 <h3>Statistical Data :-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=brandums&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="brandums" 
     bg_color=#808080/></p>
-
-<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brandums&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="brandums" /></p>
