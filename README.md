@@ -7,8 +7,6 @@
     alt="brandums" /> 
   </p>
 
-<br>
-
 <p><img align="right" src="https://github.com/brandums/brandums/blob/main/animation_500_kxa883sd.gif" alt="brandums" /></p>
 
 - 🌱 I’m currently learning advanced topics in **.NET** and **Angular** development.
@@ -81,7 +79,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brandums&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="brandums" /></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brandums&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="brandums" /></p>
