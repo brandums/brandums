@@ -30,7 +30,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg"
+      src="https://www.svgrepo.com/show/473592/dotnet.svg"
       alt="dotnet" width="40" height="40" /> </a> 
   <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"
