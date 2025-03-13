@@ -30,7 +30,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img
-      src="https://www.svgrepo.com/show/473592/dotnet.svg"
+      src="https://filezner.com/upload/logo-software/microsoft-net-desktop-runtime.png"
       alt="dotnet" width="40" height="40" /> </a> 
   <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"
@@ -53,14 +53,11 @@
   <a href="https://www.microsoft.com/net" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
       alt="csharp" width="40" height="40" /> </a> 
-  <a href="https://www.microsoft.com/net" target="_blank" rel="noreferrer"> <img
-      src="https://w7.pngwing.com/pngs/673/239/png-transparent-entity-framework-core-asp-net-core-net-framework-microsoft-blue-text-logo.png"
-      alt="aspnetcore" width="40" height="40" /> </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg"
       alt="bootstrap" width="40" height="40" /> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      src="https://www.svgrepo.com/show/255832/sql.svg"
       alt="mysql" width="40" height="40" /> </a> 
 </p>
 
