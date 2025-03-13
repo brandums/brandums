@@ -17,12 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/brandonarenas/" target="blank"><img align="center"
+  <a href="www.linkedin.com/in/brandon-arenas151" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="brandon arenas" height="30" width="40" /></a>
-  <a href="https://twitter.com/brandums" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="brandums" height="30" width="40" /></a>
   <a href="https://github.com/brandums" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
       alt="brandums" height="30" width="40" /></a>
@@ -33,7 +30,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnet/dotnet-original-wordmark.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg"
       alt="dotnet" width="40" height="40" /> </a> 
   <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"
@@ -57,7 +54,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
       alt="csharp" width="40" height="40" /> </a> 
   <a href="https://www.microsoft.com/net" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aspnetcore/aspnetcore-original.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aspnet/aspnet-original.svg"
       alt="aspnetcore" width="40" height="40" /> </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
